@@ -16,3 +16,19 @@ Auth token expires in 6 hours. store it for requests that are within this time s
 request headers are individual parameters. 
 Request body is a base 64 encoded json object with a single property called "data"
 
+Success Respose is also a JSON object with properties
+
+* AckNo
+* AckDt
+* Irn
+* SignedInvoice
+* SignedQRCode
+* Status
+
+Error Respose is also a JSON object with properties
+* status
+* Data
+* Error Details
+* info
+
+Schema and validations are available at https://einv-apisandbox.nic.in/version1.00/generate-irn.html#requestPayload
