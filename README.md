@@ -32,4 +32,4 @@ Error Respose is also a JSON object with properties
 * info
 
 Schema and validations are available at https://einv-apisandbox.nic.in/version1.00/generate-irn.html#requestPayload
-[journey](#journey)
+# journey
