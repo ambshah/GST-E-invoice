@@ -1,5 +1,5 @@
 # GST-E-invoice
-Code and Documentation on my [journey] to Enable GST E invoicing IRN and QR Code
+Code and Documentation on my [journey](#journey) to Enable GST E invoicing IRN and QR Code
 
 Portal Address for the documentation is https://einv-apisandbox.nic.in
 
